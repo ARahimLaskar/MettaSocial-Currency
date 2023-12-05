@@ -70,9 +70,9 @@
   -webkit-box-direction: normal;
   -ms-flex-direction: column;
   flex-direction: column;
-  -webkit-box-flex: calc(25% -20px);
-  -ms-flex: calc(25% -20px);
-  flex: calc(25% -20px);
+  -webkit-box-flex: 1 1 calc(25% - 20px);
+  -ms-flex: 1 1 calc(25% - 20px);
+  flex: 1 1 calc(25% - 20px);
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
   padding: 1rem;
