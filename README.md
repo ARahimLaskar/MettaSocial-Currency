@@ -1,8 +1,8 @@
 # Start Locally 
 
 // run command in terminal
-`npm install
-npm run dev`
+<p>npm install</p>
+<p>npm run dev</p>
 
 
 # Deployed Link: https://mettaschool-currency.netlify.app/
